@@ -28,3 +28,9 @@ This repository contains Python code for visualizing cancer data using dimension
 
 3. Run the Python script:
    python visualize_cancer_data.py
+
+## Dependencies
+- pandas
+- seaborn
+- matplotlib
+- scikit-learn
